@@ -3,9 +3,22 @@
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
 .welcome{
-	  justify-content: center;
-    text-align: bottom;
-		text-align: center;
-    color: #CD4646;
+  justify-content: center;
+  text-align: bottom;
+	text-align: center;
+  color: #CD4646;
+  position: fixed;
+  top: 200px;
 }
 
+.top_button{
+	position: fixed;
+	right: 120px;
+	bottom: 140px;
+}
+
+.bottom_button{
+	position: fixed;
+	right: 120px;
+	bottom: 80px;
+}

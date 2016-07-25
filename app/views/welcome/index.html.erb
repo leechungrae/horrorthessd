@@ -2,9 +2,13 @@
 <div class="greeting">
     <%= image_tag "text2.png", size: "1000x200", id: "hello_horror" %>
 </div>
+
 <script>
     $("audio").hide();
     $("#hello_horror").hide();
     $("#hello_horror").fadeIn(6000);
 </script>
-<%= link_to "시작하기", welcome_pict_1_path %>
+
+<div style="position: fixed; right: 650px; bottom: 300px;">
+	<%= link_to "함께 하시겠습니까?", welcome_pict_1_path, class: 'btn btn-default' %>
+</div>
