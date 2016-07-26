@@ -3,5 +3,9 @@
 # You can use CoffeeScript in this file: http://coffeescript.org/
 
 $("#story1").hide();
-$("#story1").fadeIn(5000);
+$("#story1").fadeIn(3000);
 $("#story1").fadeOut(8000);
+
+$("#story2").hide();
+$("#story2").fadeIn(10000);
+$("#story2").fadeOut(15000);
