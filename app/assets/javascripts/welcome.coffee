@@ -6,15 +6,22 @@ $("#start").hide();
 $("#start").fadeIn(16000);
 
 $("#story1").hide();
-$("#story1").fadeIn(2500);
-$("#story1").delay(8000);
-$("#story1").fadeOut(2500);
+$("#story1").fadeIn(2000);
+$("#story1").delay(6000);
+$("#story1").fadeOut(2000);
 
 $("#story2").hide();
-$("#story2").delay(13000);
-$("#story2").fadeIn(2500);
-$("#story2").delay(8000);
-$("#story2").fadeOut(2500);
+$("#story2").delay(10000);
+$("#story2").fadeIn(2000);
+$("#story2").delay(6000);
+$("#story2").fadeOut(2000);
+
+$("#story3").hide();
+$("#story3").delay(20000);
+$("#story3").fadeIn(2000);
+$("#story3").delay(6000);
+$("#story3").fadeOut(2000);
 
 $("#button").hide();
-$("#button").fadeIn(12000);
+$("#button").delay(26000);
+$("#button").fadeIn(2000);
