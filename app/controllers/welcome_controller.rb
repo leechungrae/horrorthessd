@@ -5,6 +5,9 @@ class WelcomeController < ApplicationController
   end
   def pict2
   end
+  def pict2_1
+    
+  end
   def pict3
   end
   def pict4
@@ -14,6 +17,9 @@ class WelcomeController < ApplicationController
   def pict6
   end
   def pict7
+  end
+  def pict4567_1
+    
   end
   def pict8
   end

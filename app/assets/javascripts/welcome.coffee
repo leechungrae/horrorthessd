@@ -25,3 +25,11 @@ $("#story3").fadeOut(2000);
 $("#button").hide();
 $("#button").delay(26000);
 $("#button").fadeIn(2000);
+
+$("#button2").hide();
+$("#button2").delay(1000);
+$("#button2").fadeIn(2000);
+
+$("#button3").hide();
+$("#button3").delay(14000);
+$("#button3").fadeIn(2000);
