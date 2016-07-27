@@ -1,32 +1,32 @@
 class WelcomeController < ApplicationController
 	def index
   end
-  def pict_1
+  def pict1
   end
-  def pict_2
+  def pict2
   end
-  def pict_3
+  def pict3
   end
-  def pict_4
+  def pict4
   end
-  def pict_5
+  def pict5
   end
-  def pict_6
+  def pict6
   end
-  def pict_7
+  def pict7
   end
-  def pict_8
+  def pict8
   end
-  def pict_9
+  def pict9
   end
-  def pict_10
+  def pict10
   end
-  def pict_11
+  def pict11
   end
-  def pict_12
+  def pict12
   end
-  def pict_13
+  def pict13
   end
-  def pict_14
+  def pict14
   end
 end

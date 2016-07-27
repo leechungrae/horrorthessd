@@ -5,11 +5,10 @@
 .welcome{
   justify-content: center;
   text-align: bottom;
-	text-align: center;
   color: #CD4646;
-  right: 200px;
+  left: 200px;
   position: fixed;
-  top: 200px;
+  top: 100px;
 }
 
 .image{
@@ -18,13 +17,19 @@
 }
 
 .top_button{
-	position: fixed;
+ 	position: fixed;
 	right: 120px;
 	bottom: 140px;
+  font-style: oblique;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 30px;
 }
 
 .bottom_button{
 	position: fixed;
 	right: 120px;
 	bottom: 80px;
+  font-style: oblique;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 30px;
 }
